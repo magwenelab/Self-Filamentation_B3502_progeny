@@ -1,5 +1,5 @@
-#/home/croth/bin/./bamaddrg -b /analysis/CROTH/SELFFILAM/SAM/SS_20201123_H99_03_S9_L001-sm.bam -s B20 -r S9.0 > /analysis/CROTH/SELFFILAM/SAM/SS_20201123_H99_03_S9_L001-sm-rg.bam
-#gzip /analysis/CROTH/SELFFILAM/SAM/SS_20201123_H99_03_S9_L001-sm.bam
+/home/croth/bin/./bamaddrg -b /analysis/CROTH/SELFFILAM/SAM/SS_20201123_H99_03_S9_L001-sm.bam -s B20 -r S9.0 > /analysis/CROTH/SELFFILAM/SAM/SS_20201123_H99_03_S9_L001-sm-rg.bam
+gzip /analysis/CROTH/SELFFILAM/SAM/SS_20201123_H99_03_S9_L001-sm.bam
 
 /home/croth/bin/./bamaddrg -b /analysis/CROTH/SELFFILAM/SAM/SS_20201123_B09_S69_L001-sm.bam -s B09 -r S69.4 > /analysis/CROTH/SELFFILAM/SAM/SS_20201123_B09_S69_L001-sm-rg.bam
 gzip /analysis/CROTH/SELFFILAM/SAM/SS_20201123_B09_S69_L001-sm.bam
