@@ -1,31 +1,30 @@
-freebayes -p 1 -r AE017341.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017341.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017341.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017341.1.1.B3502.progeny.vcf.gz 2> error.1.log
 
-freebayes -p 1 -r AE017342.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017342.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017342.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017342.1.2.B3502.progeny.vcf.gz 2> error.2.log
 
-freebayes -p 1 -r AE017343.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017343.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017343.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017343.1.3.B3502.progeny.vcf.gz 2> error.3.log
 
-freebayes -p 1 -r AE017344.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017344.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017344.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017344.1.4.B3502.progeny.vcf.gz 2> error.4.log
 
-freebayes -p 1 -r AE017345.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017345.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017345.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017345.1.5.B3502.progeny.vcf.gz 2> error.5.log
 
-freebayes -p 1 -r AE017346.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017346.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017346.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017346.1.6.B3502.progeny.vcf.gz 2> error.6.log
 
-freebayes -p 1 -r AE017347.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017347.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017347.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017347.1.7.B3502.progeny.vcf.gz 2> error.7.log
 
-freebayes -p 1 -r AE017348.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017348.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017348.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017348.1.8.B3502.progeny.vcf.gz 2> error.8.log
 
-freebayes -p 1 -r AE017349.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017349.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017349.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017349.1.9.B3502.progeny.vcf.gz 2> error.9.log
 
-freebayes -p 1 -r AE017350.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017350.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017350.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017350.1.10.B3502.progeny.vcf.gz 2> error.10.log
 
-freebayes -p 1 -r AE017351.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017351.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017351.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017351.1.11.B3502.progeny.vcf.gz 2> error.11.log
 
-freebayes -p 1 -r AE017352.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017352.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017352.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017352.1.12.B3502.progeny.vcf.gz 2> error.12.log
 
-freebayes -p 1 -r AE017353.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017353.1.B3502.progeny.vcf.gz
+freebayes -p 1 -r AE017353.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017353.1.13.B3502.progeny.vcf.gz 2> error.13.log
 
-freebayes -p 1 -r AE017356.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017356.1.B3502.progeny.vcf.gz
-
+freebayes -p 1 -r AE017356.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny/REF/FungiDB-48_CneoformansJEC21_Genome.fasta -Z -L /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt | bgzip > /analysis/CROTH/SELFFILAM/VCF/AE017356.1.14.B3502.progeny.vcf.gz 2> error.14.log
 
 ## Ref path
 ## /analysis/CROTH/Self-Filamentation_B3502_progeny/REF
@@ -35,3 +34,6 @@ freebayes -p 1 -r AE017356.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny
 
 ## VCF path
 ## /analysis/CROTH/SELFFILAM/VCF
+
+## Command to make listobams.txt
+ls -d "$PWD"/*.bam > /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt

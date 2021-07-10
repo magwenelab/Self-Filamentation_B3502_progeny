@@ -1,3 +1,13 @@
+/analysis/CROTH/SELFFILAM/SAM/SS_A10_S10-sm-rg.bam
+/analysis/CROTH/SELFFILAM/SAM/SS_A09_S9-sm-rg.bam
+/analysis/CROTH/SELFFILAM/SAM/SS_A08_S8-sm-rg.bam
+/analysis/CROTH/SELFFILAM/SAM/SS_A07_S7-sm-rg.bam
+/analysis/CROTH/SELFFILAM/SAM/SS_A06_S6-sm-rg.bam
+/analysis/CROTH/SELFFILAM/SAM/SS_A05_S5-sm-rg.bam
+/analysis/CROTH/SELFFILAM/SAM/SS_A04_S4-sm-rg.bam
+/analysis/CROTH/SELFFILAM/SAM/SS_A03_S3-sm-rg.bam
+/analysis/CROTH/SELFFILAM/SAM/SS_A02_S2-sm-rg.bam
+/analysis/CROTH/SELFFILAM/SAM/SS_A01_S1-sm-rg.bam
 /analysis/CROTH/SELFFILAM/SAM/SS_20201123_H99_03_S9_L001-sm-rg.bam
 /analysis/CROTH/SELFFILAM/SAM/SS_20201123_B12_S72_L001-sm-rg.bam
 /analysis/CROTH/SELFFILAM/SAM/SS_20201123_B11_S71_L001-sm-rg.bam
