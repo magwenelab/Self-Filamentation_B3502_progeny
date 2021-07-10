@@ -1,5 +1,5 @@
 ## Bring in needed mods.
-import numpy as np, pandas as pd, glob, sys, os
+import numpy as np, pandas as pd, sys, os
 
 ## Load in our vcf functions.
 sys.path.insert(0, '../../QTL-functions/SCRIPTS/')
@@ -8,11 +8,11 @@ import vcffunctions as vcff
 ## Set and sort vcf paths (with wild card).
 ## NOTE this "vcfpath" is a path on Magwene lab server.
 ## It will need to be changed for other users
-vcfpath = '../../SELFFILAM/VCF/AE0173*.vcf.gz' 
-vcfs = sorted(glob.glob(vcfpath))
+vcfpath = '../listovcf.txt' 
+vcfs = [f.split('\n')[0] for f in open(vcfpath,'r').readlines()]
 
 ## Check we have 14 chromosomes.
-assert len(vcfs) >= 14, "Not enough chromosome paths, check pahts"
+#assert len(vcfs) >= 14, "Not enough chromosome paths, check pahts"
 
 ## Check the paths are real.
 for p in vcfs:
