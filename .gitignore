@@ -7,6 +7,9 @@
 **.fasta*
 **.gff*
 
+## Ignore anyting on the REF path
+/REF/**
+
 ## csv files from VCF
 **CP0038*.csv.gz
 
