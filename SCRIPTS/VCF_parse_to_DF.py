@@ -2,7 +2,7 @@
 import numpy as np, pandas as pd, glob, sys, os
 
 ## Load in our vcf functions.
-sys.path.insert(0, '/home/croth/QTL-functions/SCRIPTS/')
+sys.path.insert(0, '../../QTL-functions/SCRIPTS/')
 import vcffunctions as vcff
 
 ## Set and sort vcf paths (with wild card).
