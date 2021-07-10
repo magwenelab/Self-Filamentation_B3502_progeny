@@ -1,6 +1,8 @@
+/analysis/CROTH/SELFFILAM/VCF/AE017341.1.1.B3502.progeny.vcf.gz
 /analysis/CROTH/SELFFILAM/VCF/AE017342.1.2.B3502.progeny.vcf.gz
 /analysis/CROTH/SELFFILAM/VCF/AE017343.1.3.B3502.progeny.vcf.gz
 /analysis/CROTH/SELFFILAM/VCF/AE017344.1.4.B3502.progeny.vcf.gz
+/analysis/CROTH/SELFFILAM/VCF/AE017345.1.5.B3502.progeny.vcf.gz
 /analysis/CROTH/SELFFILAM/VCF/AE017346.1.6.B3502.progeny.vcf.gz
 /analysis/CROTH/SELFFILAM/VCF/AE017347.1.7.B3502.progeny.vcf.gz
 /analysis/CROTH/SELFFILAM/VCF/AE017348.1.8.B3502.progeny.vcf.gz
