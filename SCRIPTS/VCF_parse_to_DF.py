@@ -25,7 +25,7 @@ vcfsplit = '.vcf'
 for i,vcffile in enumerate(vcfs):
     
     ## Set saveing name
-    savechrom =  vcffile.split(vcfsplit)[0].split('/')[-1]+'_%s'%(i+1)
+    savechrom =  vcffile.split(vcfsplit)[0].split('/')[-1]#+'_%s'%(i+1)
     
     ## Show the saveing labels for the files
     print(savechrom)

@@ -33,7 +33,13 @@ freebayes -p 1 -r AE017356.1 -f /analysis/CROTH/Self-Filamentation_B3502_progeny
 ## /analysis/CROTH/Self-Filamentation_B3502_progeny
 
 ## VCF path
-## /analysis/CROTH/SELFFILAM/VCF
+cn /analysis/CROTH/SELFFILAM/VCF
+
+## Command to make listovcf.txt
+ls -d "$PWD"/*.vcf.gz > /analysis/CROTH/Self-Filamentation_B3502_progeny/listovcf.txt
+
+## bam path
+cd /analysis/CROTH/SELFFILAM/SAM/PROGENY_B3502/
 
 ## Command to make listobams.txt
 ls -d "$PWD"/*.bam > /analysis/CROTH/Self-Filamentation_B3502_progeny/listobams.txt
