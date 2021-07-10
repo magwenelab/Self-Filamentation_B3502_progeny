@@ -16,7 +16,7 @@
 ## Ignore the gene files
 /GENOTYPE/GENES/*/**
 /GENOTYPE/OLD/**
-
+/GENES/**
 
 ## Ignore figures
 /FIGURES/*.png
@@ -34,9 +34,7 @@
 /SCRIPTS/NOTEBOOKS/OLD/*
 /SCRIPTS/NOTEBOOKS/TEST/*
 
-## Ignore power point and xlsx files
+## Ignore power point, xlsx, and txt files
 **.pptx
 **.xlsx
-
-## Ignore gene dataframes
-
+**.txt
