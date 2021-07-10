@@ -36,5 +36,6 @@
 
 ## Ignore power point, xlsx, and txt files
 **.pptx
+**.odp
 **.xlsx
 **.txt
