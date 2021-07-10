@@ -15,11 +15,14 @@
 
 ## Ignore the gene files
 /GENOTYPE/GENES/*/**
+/GENOTYPE/OLD/**
+
 
 ## Ignore figures
 /FIGURES/*.png
 /FIGURES/*.pdf
 /FIGURES/Progeny/*.png
+/FIGURES/DEPTHPLOTS/*.png
 
 ## Ignore haplotype analysis
 /SCRIPTS/NOTEBOOKS/FILES/*
@@ -31,5 +34,9 @@
 /SCRIPTS/NOTEBOOKS/OLD/*
 /SCRIPTS/NOTEBOOKS/TEST/*
 
-## Ignore power point files
+## Ignore power point and xlsx files
 **.pptx
+**.xlsx
+
+## Ignore gene dataframes
+
