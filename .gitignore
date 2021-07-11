@@ -43,3 +43,5 @@
 **.xlsx
 *.txt
 **.docx
+**~.lock*
+
