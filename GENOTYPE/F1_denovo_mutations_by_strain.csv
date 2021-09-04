@@ -1,0 +1,27 @@
+Strain,Seqid,Chromosome,Position,Depth,Ratio,Ref,Alt,Gene,Description
+B_22,AE017341.1,1,474535,78.0,0.99,G,C,CNA01770,endoplasmic reticulum protein  putative
+B_23,AE017341.1,1,474535,97.0,1.0,G,C,CNA01770,endoplasmic reticulum protein  putative
+B_28,AE017341.1,1,474535,66.0,1.0,G,C,CNA01770,endoplasmic reticulum protein  putative
+A19,AE017341.1,1,835830,78.0,1.0,C,A,CNA03160,heat shock protein sks2 (heat shock cognate protein hsc1)  putative
+A19,AE017341.1,1,2235752,35.0,1.0,CTA,CTTA,,
+A21,AE017342.1,2,1019660,32.0,1.0,G,A,CNB03390,nucleus protein  putative
+A01,AE017342.1,2,1428283,93.0,1.0,G,T,CNB05000,conserved hypothetical protein
+A04,AE017342.1,2,1428283,65.0,1.0,G,T,CNB05000,conserved hypothetical protein
+A01,AE017342.1,2,1432809,51.0,1.0,TTCTGACAACAGTCCGTCATCATCCAATAAT,TT,,
+A04,AE017342.1,2,1432809,36.0,1.0,TTCTGACAACAGTCCGTCATCATCCAATAAT,TT,,
+B_32,AE017343.1,3,244269,74.0,1.0,CT,TG,CNC00850,transporter  putative
+A39,AE017343.1,3,1534147,106.0,1.0,T,A,,
+A40,AE017343.1,3,1534147,75.0,1.0,T,A,,
+B01,AE017344.1,4,805614,59.0,1.0,C,A,CND02980,parallel beta-helix repeat protein
+B_19,AE017344.1,4,1501792,85.0,1.0,A,C,CND05540,negative regulation of transcription from Pol III promoter-related protein  putative
+B_19,AE017346.1,6,565651,79.0,1.0,C,T,,
+B_33,AE017347.1,7,727644,98.0,1.0,A,G,CNG02570,hypothetical protein
+B04,AE017348.1,8,292858,54.0,1.0,T,G,CNH02940,hypothetical protein
+A36,AE017348.1,8,333253,95.0,1.0,A,G,CNH02810,conserved hypothetical protein
+A37,AE017348.1,8,333253,70.0,1.0,A,G,CNH02810,conserved hypothetical protein
+B_27,AE017350.1,10,470829,47.0,1.0,A,T,CNJ01600,G-protein coupled receptor
+A39,AE017350.1,10,615633,87.0,0.92,C,G,CNJ02100,monosaccharide transporter  putative
+A34,AE017350.1,10,804111,70.0,1.0,A,G,,
+A20,AE017353.1,13,72659,86.0,1.0,A,G,CNM00290,conserved hypothetical protein
+A28,AE017353.1,13,295570,27.0,0.93,TAATAAG,TAAATAAG,CNM00990,cyclin 1
+A39,AE017353.1,13,663313,103.0,1.0,C,T,,
