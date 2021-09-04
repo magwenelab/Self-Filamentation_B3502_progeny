@@ -21,10 +21,10 @@ Analysis of B3502 progeny and hyper filamentous phenotype
 
 ## Order and description of scripts
 
-* B3502_progeny_align.ipynb and B3502_additional_progeny_align.ipynb
+* Alignment_variantcalling.sh
 
-Whole-genome, pair-end sequenced read alingment scripts.
-Generates bash scripts and commands used in alingments and variant calling.
+Bash commands used in alignments (BWA, samtools, bamaddrg) and variant calling (freebayes).
+This script serves as a record of called commands and will not work on other systems. 
 
 
 * VCF_parse_to_DF.ipynb
@@ -45,3 +45,4 @@ Combines and removes outliers from phenotype spread sheets.
 * Variant_filter.ipynb
 
 Filters variants and generates plots used in current draft
+
