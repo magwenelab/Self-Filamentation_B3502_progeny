@@ -40,3 +40,8 @@ Generates diagnostic plots exploring variant depth and allelic ratios.
 * Preproscess_phenotype.ipynb
 
 Combines and removes outliers from phenotype spread sheets.
+
+
+* Variant_filter.ipynb
+
+Filters variants and generates plots used in current draft
