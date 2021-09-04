@@ -1,7 +1,23 @@
 # Self-Filamentation_B3502_progeny
 Analysis of B3502 progeny and hyper filamentous phenotype
 
-## Dependecies
+## Dependencies
+
+**[Python (anaconda) v 3.7.3](https://www.anaconda.com/)**
+- Used for analysis and visualization
+
+**[BWA v 0.7.12-r1039](http://bio-bwa.sourceforge.net/)**
+- Used to align FASTQ file to an XL280 reference genome
+
+**[Samtools v 1.9](http://www.htslib.org/)**
+- Used to generate and filter SAM and BAM files
+
+**[Freebayes v 1.2.0](https://github.com/freebayes/freebayes) haplotype caller**
+- Used to detect genetic variants segregating in the mapping population
+
+**[Bamaddrg](https://github.com/ekg/bamaddrg)**
+- Used to add read group information to BAM
+
 
 ## Order and description of scripts
 
