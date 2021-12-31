@@ -1,6 +1,7 @@
 # Self-Filamentation_B3502_progeny
 Analysis of B3502 progeny and hyper filamentous phenotype
 
+
 ## Dependencies
 
 **[Python (anaconda) v 3.7.3](https://www.anaconda.com/)**
@@ -19,7 +20,7 @@ Analysis of B3502 progeny and hyper filamentous phenotype
 - Used to add read group information to BAM
 
 
-## Order and description of scripts
+## Order and description of SCRIPTS
 
 * Alignment_variantcalling.sh
 
@@ -29,12 +30,13 @@ This script serves as a record of called commands and will not work on other sys
 
 * VCF_parse_to_DF.ipynb
 
-Parsing of variant call file (VCF) to dataframes and csv files (depths, allele ratios, genotypes, and informational columns).
+Parsing of variant call file (VCF) to dataframes and csv files (depths, allele ratios, genotypes, and informational columns) gzipped and stored in ./GENOTYPE/DP, ./GENOTYPE/AF, ./GENOTYPE/GT, and./GENOTYPE/INFO directories (respectively).
 
 
 * Plot_depth_allelic_depth_ratio.ipynb
 
-Generates diagnostic plots exploring variant depth and allelic ratios.
+Generates diagnostic plots exploring variant depth and allelic read depth ratios.
+An example figure is for the strain A01 is: ./FIGURES/DEPTHPLOTS/A01.png.
 
 
 * Preproscess_phenotype.ipynb
@@ -45,4 +47,6 @@ Combines and removes outliers from phenotype spread sheets.
 * Variant_filter.ipynb
 
 Filters variants and generates plots used in current draft
+
+
 
