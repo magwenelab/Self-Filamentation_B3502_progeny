@@ -41,12 +41,34 @@ An example figure is for the strain A01 is: ./FIGURES/DEPTHPLOTS/A01.png.
 
 * Preproscess_phenotype.ipynb
 
-Combines and removes outliers from phenotype spread sheets.
+Combines and removes outliers from raw phenotype spread sheets.
 
 
 * Variant_filter.ipynb
 
-Filters variants and generates plots used in current draft
+Filters variants and generates plots used in final QTL mapping and manuscript.
 
 
+* QTL_Map_Filamentation.ipynb
 
+Cunduct QTL mapping using mutual information between filtered variants and slef-filamentation phenotypes.
+
+
+* Bootstrap_CI_QTL14.ipynb
+
+Construct a confidence interval between QTLs on chromosome 14 via bootstrapping. 
+
+
+* RHO_Visualization.ipynb
+
+Makes a gene model for the RHO (CNC06490) gene.
+
+
+* RIC8_Visualization.ipynb
+
+Makes a gene model for the RIC8 (CNN01270) gene.
+
+
+* CNN00400_Visualization.ipynb
+
+Makes a gene model for the gene CNN00400. 
