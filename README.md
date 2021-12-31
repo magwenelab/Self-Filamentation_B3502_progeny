@@ -1,5 +1,5 @@
 # Self-Filamentation_B3502_progeny
-Analysis of B3502 progeny and hyper filamentous phenotype
+Scripts used in analysis of B3502 progeny and self-filamentous phenotypes as seen in **[Sun et al.](https://www.biorxiv.org/content/10.1101/2021.12.09.472005v2)**
 
 
 ## Dependencies
