@@ -9,7 +9,7 @@ Analysis of B3502 progeny and hyper filamentous phenotype
 **[BWA v 0.7.12-r1039](http://bio-bwa.sourceforge.net/)**
 - Used to align FASTQ file to an XL280 reference genome
 
-**[Samtools v 1.9](http://www.htslib.org/)**
+**[Samtools v 0.1.1996b5f2294a](http://www.htslib.org/)**
 - Used to generate and filter SAM and BAM files
 
 **[Freebayes v 1.2.0](https://github.com/freebayes/freebayes) haplotype caller**
