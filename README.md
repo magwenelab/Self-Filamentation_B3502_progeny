@@ -30,7 +30,7 @@ This script serves as a record of called commands and will not work on other sys
 
 * VCF_parse_to_DF.ipynb
 
-Parsing of variant call file (VCF) to dataframes and csv files (depths, allele ratios, genotypes, and informational columns) gzipped and stored in ./GENOTYPE/DP, ./GENOTYPE/AF, ./GENOTYPE/GT, and./GENOTYPE/INFO directories (respectively).
+Parsing of variant call file (VCF) to dataframes and csv files (depths, allele ratios, genotypes, and informational columns) gzipped and stored in ./GENOTYPE/DP, ./GENOTYPE/AF, **[GT](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/GT)**, and ./GENOTYPE/INFO directories (respectively).
 
 
 * Plot_depth_allelic_depth_ratio.ipynb
