@@ -36,7 +36,7 @@ Parsing of variant call file (VCF) to dataframes and csv files (depths, allele r
 * **[Plot_depth_allelic_depth_ratio.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Plot_depth_allelic_depth_ratio.ipynb)**
 
 Generates diagnostic plots exploring variant depth and allelic read depth ratios.
-An example depth figure is stored here for the progeny **[A01](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/DEPTHPLOTS/A01.png)**.
+An example depth figure is stored **[here](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/FIGURES/DEPTHPLOTS)** for the progeny A01, A03, and A05.
 
 
 * **[Preproscess_phenotype.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Preprocess_phenotype.ipynb)**
