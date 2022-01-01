@@ -46,27 +46,32 @@ Combines and removes outliers from **[raw phenotype spreadsheets](https://github
 
 * **[Variant_filter.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Variant_filter.ipynb)**
 
-Filters variants and generates plots used in final QTL mapping and manuscript.
+Filters variants based on the number of reads supporting a variant, call rate within the mapping population, proximity to centromere (for examples) and generates data and plots used in QTL mapping analysis and manuscript, respectively. This notebook generates data used in sections **[A](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS1_GeneticVariation_A.pdf)** and **[B](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS1_GeneticVariation_B.pdf)** of Supplemental Figure S1, **[Supplemental Figure S3](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS3_SegregatingVariants.pdf)**, and **[Supplemental Tabel S5](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/DATA)**.  
 
 
 * **[QTL_Map_Filamentation.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/QTL_Map_Filamentation.ipynb)**
 
-Cunduct QTL mapping using mutual information between filtered variants and slef-filamentation phenotypes.
+Cunducts QTL mapping using mutual information between filtered variants and filtered slef-filamentation phenotypes. This script generates the manhattan plot (via mutual information) in **[Figure 4](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs.pdf)** displaying the strength in association between the genotype and self-filamentation phenotypes as well as **[Supplemental Figure S4](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS4_ManhattanPlots.pdf)**. 
+
+
+* **[Mutual_Info_and_Info_Gain](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Mutual_Info_and_Info_Gain.ipynb)**
+
+Conducts epistatic analsis via information theoretic approaches using mutual information and information gain metrics. This scripts generates parts **[B](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_B.png)** and **[C](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_C.png)** of Figure 4. 
 
 
 * **[Bootstrap_CI_QTL14.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Bootstrap_CI_QTL14.ipynb)**
 
-Construct a confidence interval between QTLs on chromosome 14 via bootstrapping. 
+Constructs a confidence interval between QTLs on chromosome 14 via bootstrapping. 
 
 
 * **[RHO_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/RHO_Visualization.ipynb)**
 
-Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNC06490.png)** for the RHO (CNC06490) gene on chromosome 3.
+Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNC06490.png)** for the RHO (CNC06490) gene on chromosome 3. This model is shown Figure 4A. 
 
 
 * **[RIC8_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/RIC8_Visualization.ipynb)**
 
-Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNN01270.png)** for the RIC8 (CNN01270) gene on chromosome 14.
+Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNN01270.png)** for the RIC8 (CNN01270) gene on chromosome 14. This model is part of Figure 4A. 
 
 
 * **[CNN00400_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/CNN00400_Visualization.ipynb)**
