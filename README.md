@@ -17,7 +17,7 @@ Scripts used in analysis of B3502 progeny and self-filamentous phenotypes as see
 **[Bamaddrg](https://github.com/ekg/bamaddrg)**
 - Used to add read group information to BAM files.
 
-**[Freebayes](https://github.com/freebayes/freebayes) v 1.2.0 haplotype caller**
+**[Freebayes](https://github.com/freebayes/freebayes) haplotype caller v 1.2.0**
 - Used to detect genetic variants segregating in the mapping population.
 
 
