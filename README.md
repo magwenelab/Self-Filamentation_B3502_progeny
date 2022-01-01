@@ -77,3 +77,8 @@ Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_pr
 * **[CNN00400_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/CNN00400_Visualization.ipynb)**
 
 Makes a gene model for the gene CNN00400 (i.e. **[Supplemantary Figure S5](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS5_CNN00400.pdf)**) located on chromosome 14.
+
+
+## How to cite this repository
+
+- "Epistatic genetic interactions govern morphogenesis during sexual reproduction and infection in a global human fungal pathogen" BioRxiv 2021. Sun, S., Roth, C., Averette, A. F., Magwene, P. M., and Heitman, J.
