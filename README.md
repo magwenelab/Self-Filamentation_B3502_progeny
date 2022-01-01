@@ -30,18 +30,18 @@ This script serves as a record of called commands and will not work on other sys
 
 * VCF_parse_to_DF.ipynb
 
-Parsing of variant call file (VCF) to dataframes and csv files (depths, allele ratios, genotypes, and informational columns) gzipped and stored in ./GENOTYPE/DP, ./GENOTYPE/AF, **[GT](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/GT)**, and ./GENOTYPE/INFO directories (respectively).
+Parsing of variant call file (VCF) to dataframes and csv files (depths, allele ratios, genotypes, and informational columns) gzipped and stored in **[DP](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/DP)**, **[AF](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/AF)**, **[GT](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/GT)**, and **[INFO](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/INFO)** directories (respectively).
 
 
 * Plot_depth_allelic_depth_ratio.ipynb
 
 Generates diagnostic plots exploring variant depth and allelic read depth ratios.
-An example figure is for the strain A01 is: ./FIGURES/DEPTHPLOTS/A01.png.
+An example depth figure is stored here for the progeny **[A01](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/DEPTHPLOTS/A01.png)**.
 
 
 * Preproscess_phenotype.ipynb
 
-Combines and removes outliers from raw phenotype spread sheets.
+Combines and removes outliers from **[raw phenotype spread sheets](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/PHENOTYPE/RAW)** and generates a processed **[phenotype dataframe](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/PHENOTYPE/PROCESSED)** (as a csv file) used in analysis.
 
 
 * Variant_filter.ipynb
@@ -61,14 +61,14 @@ Construct a confidence interval between QTLs on chromosome 14 via bootstrapping.
 
 * RHO_Visualization.ipynb
 
-Makes a gene model for the RHO (CNC06490) gene.
+Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNC06490.png)** for the RHO (CNC06490) gene on chromosome 3.
 
 
 * RIC8_Visualization.ipynb
 
-Makes a gene model for the RIC8 (CNN01270) gene.
+Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNN01270.png)** for the RIC8 (CNN01270) gene on chromosome 14.
 
 
 * CNN00400_Visualization.ipynb
 
-Makes a gene model for the gene CNN00400. 
+Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS5_CNN00400.pdf)** for the gene CNN00400 (i.e. Supplemantary Figure S5) located on chromosome 14.
