@@ -4,16 +4,16 @@ Scripts used in analysis of B3502 progeny and self-filamentous phenotypes as see
 
 ## Dependencies
 
-**[Python (anaconda) v 3.7.3](https://www.anaconda.com/)**
+**Python [(anaconda)](https://www.anaconda.com/) v 3.7.3**
 - Used for analysis and visualization
 
-**[BWA v 0.7.12-r1039](http://bio-bwa.sourceforge.net/)**
+**[BWA](http://bio-bwa.sourceforge.net/) v 0.7.12-r1039**
 - Used to align FASTQ file to an JEC21 reference genome
 
-**[Samtools v 0.1.1996b5f2294a](http://www.htslib.org/)**
+**[Samtools](http://www.htslib.org/) v 0.1.1996b5f2294a**
 - Used to generate and filter SAM and BAM files
 
-**[Freebayes v 1.2.0](https://github.com/freebayes/freebayes) haplotype caller**
+**[Freebayes](https://github.com/freebayes/freebayes) v 1.2.0 haplotype caller**
 - Used to detect genetic variants segregating in the mapping population
 
 **[Bamaddrg](https://github.com/ekg/bamaddrg)**
