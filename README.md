@@ -9,7 +9,7 @@ Scripts used in analysis of B3502 progeny and self-filamentous phenotypes as see
 
 **[BWA](http://bio-bwa.sourceforge.net/) v 0.7.12-r1039**
 - Used to align raw FASTQ files to an **[JEC21](https://fungidb.org/fungidb/app/downloads/release-48/CneoformansJEC21/fasta/data/)** reference genome
-- FASTQ files are stored on the NCBI SRA under bioproject identification number PRJNA747819 and will be released upon publicaiton.
+- FASTQ files are stored on the NCBI SRA under bioproject identification number PRJNA747819 and will be released upon publicaiton (refer to **[SRA metadata](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/GENOTYPE/DATA/SRA_metadata.tsv)** for details).
 
 **[Samtools](http://www.htslib.org/) v 0.1.1996b5f2294a**
 - Used to generate and filter SAM and BAM files
