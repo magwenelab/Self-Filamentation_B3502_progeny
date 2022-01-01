@@ -28,47 +28,47 @@ Bash commands used in alignments (BWA, samtools, bamaddrg) and variant calling (
 This script serves as a record of called commands and will not work on other systems. 
 
 
-* VCF_parse_to_DF.ipynb
+* **[VCF_parse_to_DF.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/VCF_parse_to_DF.ipynb)**
 
 Parsing of variant call file (VCF) to dataframes and csv files (depths, allele ratios, genotypes, and informational columns) gzipped and stored in **[DP](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/DP)**, **[AF](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/AF)**, **[GT](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/GT)**, and **[INFO](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/GENOTYPE/INFO)** directories (respectively).
 
 
-* Plot_depth_allelic_depth_ratio.ipynb
+* **[Plot_depth_allelic_depth_ratio.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Plot_depth_allelic_depth_ratio.ipynb)**
 
 Generates diagnostic plots exploring variant depth and allelic read depth ratios.
 An example depth figure is stored here for the progeny **[A01](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/DEPTHPLOTS/A01.png)**.
 
 
-* Preproscess_phenotype.ipynb
+* **[Preproscess_phenotype.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Preprocess_phenotype.ipynb)**
 
 Combines and removes outliers from **[raw phenotype spreadsheets](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/PHENOTYPE/RAW)** and generates a processed **[phenotype dataframe](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/PHENOTYPE/PROCESSED)** (as a csv file) used in analysis.
 
 
-* Variant_filter.ipynb
+* **[Variant_filter.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Variant_filter.ipynb)**
 
 Filters variants and generates plots used in final QTL mapping and manuscript.
 
 
-* QTL_Map_Filamentation.ipynb
+* **[QTL_Map_Filamentation.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/QTL_Map_Filamentation.ipynb)**
 
 Cunduct QTL mapping using mutual information between filtered variants and slef-filamentation phenotypes.
 
 
-* Bootstrap_CI_QTL14.ipynb
+* **[Bootstrap_CI_QTL14.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Bootstrap_CI_QTL14.ipynb)**
 
 Construct a confidence interval between QTLs on chromosome 14 via bootstrapping. 
 
 
-* RHO_Visualization.ipynb
+* **[RHO_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/RHO_Visualization.ipynb)**
 
 Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNC06490.png)** for the RHO (CNC06490) gene on chromosome 3.
 
 
-* RIC8_Visualization.ipynb
+* **[RIC8_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/RIC8_Visualization.ipynb)**
 
 Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNN01270.png)** for the RIC8 (CNN01270) gene on chromosome 14.
 
 
-* CNN00400_Visualization.ipynb
+* **[CNN00400_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/CNN00400_Visualization.ipynb)**
 
-Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS5_CNN00400.pdf)** for the gene CNN00400 (i.e. Supplemantary Figure S5) located on chromosome 14.
+Makes a gene model for the gene CNN00400 (i.e. **[Supplemantary Figure S5](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS5_CNN00400.pdf)**) located on chromosome 14.
