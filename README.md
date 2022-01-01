@@ -22,7 +22,7 @@ Scripts used in analysis of B3502 progeny and self-filamentous phenotypes as see
 
 ## Order and description of SCRIPTS
 
-* Alignment_variantcalling.sh
+* **[Alignment_variantcalling.sh](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/Alignment_variantcalling.sh)**
 
 Bash commands used in alignments (BWA, samtools, bamaddrg) and variant calling (freebayes).
 This script serves as a record of called commands and will not work on other systems. 
@@ -41,7 +41,7 @@ An example depth figure is stored here for the progeny **[A01](https://github.co
 
 * Preproscess_phenotype.ipynb
 
-Combines and removes outliers from **[raw phenotype spread sheets](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/PHENOTYPE/RAW)** and generates a processed **[phenotype dataframe](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/PHENOTYPE/PROCESSED)** (as a csv file) used in analysis.
+Combines and removes outliers from **[raw phenotype spreadsheets](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/PHENOTYPE/RAW)** and generates a processed **[phenotype dataframe](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/tree/main/PHENOTYPE/PROCESSED)** (as a csv file) used in analysis.
 
 
 * Variant_filter.ipynb
