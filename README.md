@@ -65,17 +65,17 @@ Scripts used in analysis of B3502 progeny and self-filamentous phenotypes as see
 
 **[RHO_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/RHO_Visualization.ipynb)**
 
-- Generates a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNC06490.png)** for the RHO (CNC06490) gene on chromosome 3. This model is shown Figure 4A. 
+- Generates a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNC06490.png)** for the *RHO* (*CNC06490*) gene on chromosome 3. This model is used in Figure 4A. 
 
 
 **[RIC8_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/RIC8_Visualization.ipynb)**
 
-- Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNN01270.png)** for the RIC8 (CNN01270) gene on chromosome 14. This model is part of Figure 4A. 
+- Makes a **[gene model](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_Figure4_QTGs_A_CNN01270.png)** for the *RIC8* (*CNN01270*) gene on chromosome 14. This model is part of Figure 4A. 
 
 
 **[CNN00400_Visualization.ipynb](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/SCRIPTS/CNN00400_Visualization.ipynb)**
 
-- Constructs a gene model for the gene CNN00400 (i.e. **[Supplemantary Figure S5](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS5_CNN00400.pdf)**) located on chromosome 14.
+- Constructs a gene model for the gene *CNN00400* (i.e. **[Supplemantary Figure S5](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/FIGURES/SHENG_B3502_SupplementalFigureS5_CNN00400.pdf)**) located on chromosome 14.
 
 
 ## How to cite this repository
