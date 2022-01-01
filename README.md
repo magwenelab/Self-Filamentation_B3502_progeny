@@ -8,17 +8,17 @@ Scripts used in analysis of B3502 progeny and self-filamentous phenotypes as see
 - Used for analysis and visualization.
 
 **[BWA](http://bio-bwa.sourceforge.net/) v 0.7.12-r1039**
-- Used to align raw FASTQ files to an **[JEC21](https://fungidb.org/fungidb/app/downloads/release-48/CneoformansJEC21/fasta/data/)** reference genome.
+- Used to align raw FASTQ files to a **[JEC21](https://fungidb.org/fungidb/app/downloads/release-48/CneoformansJEC21/fasta/data/)** reference genome.
 - FASTQ files are stored on the NCBI SRA under bioproject identification number PRJNA747819 and will be released upon publicaiton (refer to **[SRA metadata](https://github.com/magwenelab/Self-Filamentation_B3502_progeny/blob/main/GENOTYPE/DATA/SRA_metadata.tsv)** for details).
 
 **[Samtools](http://www.htslib.org/) v 0.1.1996b5f2294a**
-- Used to generate, filter, and convert SAM to BAM files.
+- Used to generate, filter, convert, and sort SAM to BAM files.
+
+**[Bamaddrg](https://github.com/ekg/bamaddrg)**
+- Used to add read group information to BAM files.
 
 **[Freebayes](https://github.com/freebayes/freebayes) v 1.2.0 haplotype caller**
 - Used to detect genetic variants segregating in the mapping population.
-
-**[Bamaddrg](https://github.com/ekg/bamaddrg)**
-- Used to add read group information to BAM.
 
 
 ## Order and description of SCRIPTS
